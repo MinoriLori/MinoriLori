@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MinoriLori 
-- 👀 I’m interested in Android development
-- 🌱 I’m currently learning Android SDK and Kotlin
-- 💞️ I’m looking to collaborate on some android projects
+- 👀 I’m interested in Backend
+- 🌱 I’m currently learning Backend development and java
+- 💞️ I’m looking to collaborate on some java projects
 - 📫 How to reach me Telegram - https://t.me/SempraI / Vk - https://vk.com/semprai 
 
 <!---
